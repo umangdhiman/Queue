@@ -1,0 +1,1 @@
+Queue is a FIFO type data structure in which the first element inserted is the first one to be out. Basic operations that are performed on queue are insert, delete.
